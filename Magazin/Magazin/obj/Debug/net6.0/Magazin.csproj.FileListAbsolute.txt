@@ -1,0 +1,15 @@
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\bin\Debug\net6.0\Magazin.exe
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\bin\Debug\net6.0\Magazin.deps.json
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\bin\Debug\net6.0\Magazin.runtimeconfig.json
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\bin\Debug\net6.0\Magazin.dll
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\bin\Debug\net6.0\Magazin.pdb
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.csproj.AssemblyReference.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfoInputs.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfo.cs
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.dll
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\refint\Magazin.dll
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.pdb
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\Magazin.genruntimeconfig.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\Magazin\Magazin\obj\Debug\net6.0\ref\Magazin.dll
